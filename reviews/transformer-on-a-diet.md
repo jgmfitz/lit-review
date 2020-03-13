@@ -21,8 +21,10 @@ The researchers explore four different architectures, as shown above and describ
 2. The Dilated Transformer with Memory: This variant is similar to the dilated transformer, but in this case, the "on" nodes can still access the previous layer.
 3. The Cascade Transformer: This variant is similar to the full transformer, but with pruning at each layer that limits how far back (left) in the previous layer a given node can see.
 
-## Results
+## Big O
 
 ![](Figure/transformer-diet-2.png)
+
+## Results
 
 ![](Figure/transformer-diet-3.png)
