@@ -23,6 +23,6 @@ The researchers explore four different architectures, as shown above and describ
 
 ## Results
 
-~[](Figure/transformer-diet-2.png)
+![](Figure/transformer-diet-2.png)
 
-~[](Figure/transformer-diet-3.png)
+![](Figure/transformer-diet-3.png)
