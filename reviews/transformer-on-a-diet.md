@@ -23,10 +23,9 @@ The researchers explore four different architectures, as shown above and describ
 
 ## Big O
 
-![big o](Figure/transformer-diet-2.png)
+![big o](Figures/transformer-diet-2.png)
 
 ## Results
 
-![results](Figure/transformer-diet-3.png)
+![results](Figures/transformer-diet-3.png)
 
-end
