@@ -12,7 +12,7 @@ Amazon
 
 In this paper, the researchers attempt to substantially reduce the size of the tranformer architecture for the language modeling task. They argue that many current models are unwieldy for production tasks (EX: GPT-2 with 1.6B parameters). With their sparsest architecture, they reduce the parameters by 70% with a commensurate perplexity impact of only 7% on the PTB dataset and 5% on the WT-2 dataset.
 
-![](Figures/transformer-diet-1.png)
+![arch](Figures/transformer-diet-1.png)
 
 ## Architectures
 The researchers explore four different architectures, as shown above and described below.
@@ -23,8 +23,10 @@ The researchers explore four different architectures, as shown above and describ
 
 ## Big O
 
-![](Figure/transformer-diet-2.png)
+![big o](Figure/transformer-diet-2.png)
 
 ## Results
 
-![](Figure/transformer-diet-3.png)
+![results](Figure/transformer-diet-3.png)
+
+end
