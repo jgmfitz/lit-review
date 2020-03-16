@@ -10,7 +10,7 @@ http://language.media.mit.edu/visualizations/books
 
 ### Overview:
 
-This research group sought to characterize the global influence of a particular language by examining translations between pairs of languages. These pairings then form graphs, from which natural "hubs" are discernable (see below). The find that "The GLNs, mapped from millions of online and printed linguistic expressions, reveal that the world’s languages exhibit a hierarchical structure dominated by a central hub, English, and a halo of intermediate hubs, which include other global languages such as German, French, and Spanish. Although languages such as Chinese, Arabic, and Hindi are immensely popular, we document an important sense in which these languages are more peripheral to the world’s network of linguistic influence." 
+This research group sought to characterize the global influence of a particular language by examining translations between pairs of languages. These pairings then form graphs, from which natural "hubs" are discernable (see below). They find that "The GLNs, mapped from millions of online and printed linguistic expressions, reveal that the world’s languages exhibit a hierarchical structure dominated by a central hub, English, and a halo of intermediate hubs, which include other global languages such as German, French, and Spanish. Although languages such as Chinese, Arabic, and Hindi are immensely popular, we document an important sense in which these languages are more peripheral to the world’s network of linguistic influence." 
 
 ### Datasets:
 
