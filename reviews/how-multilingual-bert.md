@@ -22,7 +22,7 @@ In this work, the researchers evaluate the effectiveness of multilingual BERT at
 
 ### Figure 1
 
-![fig 1](Figures/how-multilingual-bert-2.png)
+![fig 1](Figures/how-multilingual-bert-1.png)
 
 ### Figure 2
 
