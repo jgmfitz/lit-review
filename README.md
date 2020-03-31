@@ -1,5 +1,7 @@
 # A Repo for Notes on Papers
 
+[2020 - InterBERT: Vision-and-Language Interaction for Multi-modal Pretraining - Lin, et al. - a multimodal model for text and images](reviews/interBERT.md)
+
 [2020 - A Survey on Contextual Embeddings - Liu et al. - Overview of past contextual embeddings (ELMo, BERT, etc)](reviews/survey-contextual-embeddings)
 
 [2020 - Transformer on a Diet - Wang et. al - A paper for reducing transformer architecture size via dilation](reviews/transformer-on-a-diet.md)
