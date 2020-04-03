@@ -15,4 +15,26 @@ Parallel corpora (data from one language aligned to another language) are often 
 ### Key Findings
 
 1. Sampling from the model distribution or noising beam outputs outperforms pure beam search (the previous standard).
-2. 
+2. Synthetic data based on sampling and noised beam search provides a strong signal than that based on argmax inference.
+3. Back-translated data can sometimes match the accuracy of real bitext.
+
+### Architecture
+
+They use a encoder-decoder transformer architecture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
