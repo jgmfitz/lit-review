@@ -10,3 +10,17 @@ Caglar Gulcehre, Orhan Firat, Kelvin Xu, Kyunghyun Cho, and Yoshua Bengio. 2017.
 ### Dual Learning
 
 Yong Cheng, Wei Xu, Zhongjun He, Wei He, Hua Wu, Maosong Sun, and Yang Liu. 2016. Semi- supervised learning for neural machine translation. In Conference of the Association for Computational Linguistics (ACL).
+
+### Multimodal modeling (text and images)
+
+https://arxiv.org/abs/2004.00849
+
+### Named Entity typing
+
+https://arxiv.org/abs/1905.02832
+
+### Non-autoregressive MT
+
+https://arxiv.org/abs/2004.01655
+
+
