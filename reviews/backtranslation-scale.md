@@ -21,9 +21,7 @@ Parallel corpora (data from one language aligned to another language) are often 
 
 ### Methods
 
-They use a encoder-decoder transformer architecture with 6 blocks in the encoder and in the decoder. Word embeddings are 1,024, drop out is 0.3, and 16 attention heads are used. Adam is the optimizer. Decoding used a beam size of 5. 
-
-After obtaining 5.18M bilanguage pairs and 226M target sentences, they the use Moses for tokenization and byte pair encoding. They use BLEU and de-tokenized BLEU for eval. 
+They use a encoder-decoder transformer architecture with 6 blocks in the encoder and in the decoder. Word embeddings are 1,024, drop out is 0.3, and 16 attention heads are used. Adam is the optimizer. Decoding used a beam size of 5. After obtaining 5.18M bilanguage pairs and 226M target sentences, they the use Moses for tokenization and byte pair encoding. They use BLEU and de-tokenized BLEU for eval. 
 
 
 
