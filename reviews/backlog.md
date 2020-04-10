@@ -23,4 +23,8 @@ https://arxiv.org/abs/1905.02832
 
 https://arxiv.org/abs/2004.01655
 
+### Cross lingual embeddings
 
+https://arxiv.org/abs/1710.04087
+
+https://arxiv.org/abs/1812.10464
