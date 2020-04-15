@@ -1,5 +1,9 @@
 ## Papers to read:
 
+### Sentence encoding
+
+https://arxiv.org/abs/1803.11175
+
 ### Language model fusion for MT
 
 Caglar Gulcehre, Orhan Firat, Kelvin Xu, Kyunghyun Cho, Loic Barrault, Huei-Chi Lin, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. 2015. On us- ing monolingual corpora in neural machine transla- tion. arXiv, 1503.03535.
