@@ -13,6 +13,8 @@
 
 [2019 - Unsupervised Cross-lingual Representation Learning at Scale - Conneau et. al - The paper for XLM-R](reviews/xlm-r.md)
 
+[2019 - Cross-Lingual Language Model Pretraining - Lample and Conneau - XLM paper](reviews/xlm.md)
+
 [2018 - Back-Translation at Scale - Edunov et al.](reviews/backtranslation-scale.md)
 
 [2014 - Links that Speak - Ronena et al. - Graphs based on translations used to characterize how global a language is](reviews/links-that-speak.md)
