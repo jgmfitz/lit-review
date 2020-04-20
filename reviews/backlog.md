@@ -1,5 +1,13 @@
 ## Papers to read:
 
+### Transformer training techniques
+
+https://arxiv.org/pdf/2004.08249.pdf
+
+### A new dataset for multilingual tasks
+
+https://arxiv.org/pdf/2003.11080.pdf
+
 ### Sentence encoding
 
 https://arxiv.org/abs/1803.11175
