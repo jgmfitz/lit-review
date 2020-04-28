@@ -1,5 +1,7 @@
 # A Repo for Notes on Papers
 
+[2020 - XTREME: A Benchmark for Evaluating Cross-Lingual Generalization - Hu et al. - A zero-shot learning test set for 9 tasks and 40 languages](review/xtreme.md)
+
 [2020 - Mogrifier LSTM - Melis et al. - SOTA on Penn Treebank and other LM benchmarks](reviews/mogrifier.md)
 
 
