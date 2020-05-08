@@ -1,5 +1,7 @@
 # A Repo for Notes on Papers
 
+[2020 - Neural Machine Translation with Universal Visual Representation - Zhang et al. - Combining sentences and images for NMT](reviews/nmt-with-uvr.md)
+
 [2020 - Encoding Word Order in Complex Embeddings - Wang et al. - Complex (real+imaginary) positional embeddings](reviews/word-order-complex.md)
 
 [2020 - XTREME: A Benchmark for Evaluating Cross-Lingual Generalization - Hu et al. - A zero-shot learning test set for 9 tasks and 40 languages](reviews/xtreme.md)
